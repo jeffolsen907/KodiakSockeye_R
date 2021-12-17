@@ -1,0 +1,59 @@
+Log file path: L:\R_projects\KodiakSockeye_R\Arlequin_log.txt
+Core Program Directory: C:/Users/jeffreyolsen/Documents/Arlequin3522/WinArl35/
+Random number generator initialized with lidum=-681372
+	Reading  L:\R_projects\KodiakSockeye_R\Kodiak_Red_GP_NoU1004.txt ...	done.
+Reading general settings in input file ...
+done ! (0 ms)
+Reading data section in input file ...
+	Reading sample data ...
+	Reading Population1 ... 
+  26 #[WARNING # 26] from function "Population::read_genotypic_data() (SampleSize=100; Sum. Freq.=)" : sum of genotype frequencies do not match specified sample size : adjusting sample size
+	done ! (0 ms)
+
+	Reading Population2 ... 
+  27 #[WARNING # 27] from function "Population::read_genotypic_data() (SampleSize=100; Sum. Freq.=)" : sum of genotype frequencies do not match specified sample size : adjusting sample size
+	done ! (0 ms)
+
+	Reading Population3 ... 
+  28 #[WARNING # 28] from function "Population::read_genotypic_data() (SampleSize=100; Sum. Freq.=)" : sum of genotype frequencies do not match specified sample size : adjusting sample size
+	done ! (0 ms)
+
+	Reading Population4 ... 
+  29 #[WARNING # 29] from function "Population::read_genotypic_data() (SampleSize=100; Sum. Freq.=)" : sum of genotype frequencies do not match specified sample size : adjusting sample size
+	done ! (0 ms)
+
+	Reading Population5 ... 
+  30 #[WARNING # 30] from function "Population::read_genotypic_data() (SampleSize=100; Sum. Freq.=)" : sum of genotype frequencies do not match specified sample size : adjusting sample size
+	done ! (0 ms)
+
+	Reading Population6 ... 
+  31 #[WARNING # 31] from function "Population::read_genotypic_data() (SampleSize=100; Sum. Freq.=)" : sum of genotype frequencies do not match specified sample size : adjusting sample size
+	done ! (0 ms)
+
+	done ! (15 ms)
+done ! (15 ms)
+  Checking all selected options...
+		Building vectors of alleles...
+		done in 15 ms
+  done!
+  check selected settings...
+  done!
+
+Population 'Population1' : 
+done in 15 ms
+
+Population 'Population2' : 
+done in 0 ms
+
+Population 'Population3' : 
+done in 0 ms
+
+Population 'Population4' : 
+done in 0 ms
+
+Population 'Population5' : 
+done in 0 ms
+
+Population 'Population6' : 
+done in 0 ms
+    Writing  L:\R_projects\KodiakSockeye_R\Kodiak_Red_GP_NoU1004.arp... done.

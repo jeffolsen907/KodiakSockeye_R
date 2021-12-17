@@ -1,0 +1,501 @@
+P-value for each population pair across all loci
+(Fisher's method)
+-----------------------------------------------------
+Population pair               Chi2      df   P-Value
+--------------------          --------  ---  --------
+FBM1_095      & FBM2_095      220.28721 202  0.179614
+FBM1_095      & FBM3_095      225.353457200  0.105482
+FBM2_095      & FBM3_095      216.175132198  0.178725
+FBM1_095      & FBM4_095      >359.393739200  Highly sign.
+FBM2_095      & FBM4_095      314.667030198  Highly sign.
+FBM3_095      & FBM4_095      389.626916196  Highly sign.
+FBM1_095      & FOM1_095      225.197678204  0.147305
+FBM2_095      & FOM1_095      203.348233204  0.499719
+FBM3_095      & FOM1_095      254.460319204  0.009398
+FBM4_095      & FOM1_095      295.199932204  0.000031
+FBM1_095      & FTM2_095      222.445799202  0.154369
+FBM2_095      & FTM2_095      195.177484202  0.621780
+FBM3_095      & FTM2_095      233.169820202  0.065475
+FBM4_095      & FTM2_095      316.553526202  0.000000
+FOM1_095      & FTM2_095      143.586420204  0.999540
+FBM1_095      & FTM3_093      215.961672204  0.269613
+FBM2_095      & FTM3_093      165.608820204  0.977312
+FBM3_095      & FTM3_093      220.944280204  0.197757
+FBM4_095      & FTM3_093      357.129431204  Highly sign.
+FOM1_095      & FTM3_093      179.124036204  0.894768
+FTM2_095      & FTM3_093      153.726303204  0.996470
+FBM1_095      & FTM4_078      268.777426204  0.001588
+FBM2_095      & FTM4_078      262.838250200  0.001903
+FBM3_095      & FTM4_078      271.512599200  0.000574
+FBM4_095      & FTM4_078      >374.371916200  Highly sign.
+FOM1_095      & FTM4_078      262.750260204  0.003468
+FTM2_095      & FTM4_078      243.895295204  0.029262
+FTM3_093      & FTM4_078      251.160837204  0.013624
+FBM1_095      & FTM5_095      236.600899202  0.047982
+FBM2_095      & FTM5_095      259.551296202  0.003898
+FBM3_095      & FTM5_095      239.621154200  0.028960
+FBM4_095      & FTM5_095      >381.214269200  Highly sign.
+FOM1_095      & FTM5_095      226.027120204  0.138638
+FTM2_095      & FTM5_095      215.209954204  0.281593
+FTM3_093      & FTM5_095      200.687571204  0.552460
+FTM4_078      & FTM5_095      163.665138202  0.977748
+FBM1_095      & FTM6_095      284.273352202  0.000121
+FBM2_095      & FTM6_095      263.283142202  0.002423
+FBM3_095      & FTM6_095      319.222634200  Highly sign.
+FBM4_095      & FTM6_095      314.925332200  0.000000
+FOM1_095      & FTM6_095      266.680092204  0.002095
+FTM2_095      & FTM6_095      237.767102204  0.052602
+FTM3_093      & FTM6_095      >288.878015204  <0.000086
+FTM4_078      & FTM6_095      308.155843202  0.000002
+FTM5_095      & FTM6_095      >298.818912202  <0.000011
+FBM1_095      & KBL1_096      >582.863808204  Highly sign.
+FBM2_095      & KBL1_096      >453.054934204  Highly sign.
+FBM3_095      & KBL1_096      >627.168056204  Highly sign.
+FBM4_095      & KBL1_096      >576.941963204  Highly sign.
+FOM1_095      & KBL1_096      >524.683019204  Highly sign.
+FTM2_095      & KBL1_096      >459.767388204  Highly sign.
+FTM3_093      & KBL1_096      >517.855881204  Highly sign.
+FTM4_078      & KBL1_096      >510.408566204  Highly sign.
+FTM5_095      & KBL1_096      >539.651715204  Highly sign.
+FTM6_095      & KBL1_096      >530.929172204  Highly sign.
+FBM1_095      & KBL2_097      >574.921655204  Highly sign.
+FBM2_095      & KBL2_097      >600.820263204  Highly sign.
+FBM3_095      & KBL2_097      >687.740030204  Highly sign.
+FBM4_095      & KBL2_097      >590.106468204  Highly sign.
+FOM1_095      & KBL2_097      >539.800929204  Highly sign.
+FTM2_095      & KBL2_097      >529.653789204  Highly sign.
+FTM3_093      & KBL2_097      >587.702268204  Highly sign.
+FTM4_078      & KBL2_097      >528.351571204  Highly sign.
+FTM5_095      & KBL2_097      >567.138250204  Highly sign.
+FTM6_095      & KBL2_097      >565.518780204  Highly sign.
+KBL1_096      & KBL2_097      197.824521204  0.608674
+FBM1_095      & KBL4_096      >564.421308204  Highly sign.
+FBM2_095      & KBL4_096      >603.676891202  Highly sign.
+FBM3_095      & KBL4_096      >540.471040202  Highly sign.
+FBM4_095      & KBL4_096      >620.215114202  Highly sign.
+FOM1_095      & KBL4_096      >562.262285204  Highly sign.
+FTM2_095      & KBL4_096      >534.678590204  Highly sign.
+FTM3_093      & KBL4_096      >564.428492204  Highly sign.
+FTM4_078      & KBL4_096      >517.746708202  Highly sign.
+FTM5_095      & KBL4_096      >593.001720202  Highly sign.
+FTM6_095      & KBL4_096      >525.982721204  Highly sign.
+KBL1_096      & KBL4_096      185.100637204  0.824624
+KBL2_097      & KBL4_096      181.687245204  0.867480
+FBM1_095      & KBL5_096      >581.626298204  Highly sign.
+FBM2_095      & KBL5_096      >571.335377202  Highly sign.
+FBM3_095      & KBL5_096      >556.505244202  Highly sign.
+FBM4_095      & KBL5_096      >580.236644202  Highly sign.
+FOM1_095      & KBL5_096      >448.813684204  Highly sign.
+FTM2_095      & KBL5_096      >466.792366204  Highly sign.
+FTM3_093      & KBL5_096      >487.451208204  Highly sign.
+FTM4_078      & KBL5_096      >536.783616202  Highly sign.
+FTM5_095      & KBL5_096      >500.172658204  Highly sign.
+FTM6_095      & KBL5_096      >571.469816202  Highly sign.
+KBL1_096      & KBL5_096      169.772562204  0.961322
+KBL2_097      & KBL5_096      169.386511204  0.963100
+KBL4_096      & KBL5_096      210.560665204  0.361525
+FBM1_095      & KOL1_062      >591.945258204  Highly sign.
+FBM2_095      & KOL1_062      >606.173261202  Highly sign.
+FBM3_095      & KOL1_062      >632.830001202  Highly sign.
+FBM4_095      & KOL1_062      >596.287281202  Highly sign.
+FOM1_095      & KOL1_062      >580.023695204  Highly sign.
+FTM2_095      & KOL1_062      >558.855866204  Highly sign.
+FTM3_093      & KOL1_062      >622.694892204  Highly sign.
+FTM4_078      & KOL1_062      >593.103414202  Highly sign.
+FTM5_095      & KOL1_062      >669.457332204  Highly sign.
+FTM6_095      & KOL1_062      >643.666584202  Highly sign.
+KBL1_096      & KOL1_062      398.983729204  Highly sign.
+KBL2_097      & KOL1_062      465.376633204  Highly sign.
+KBL4_096      & KOL1_062      444.971020204  Highly sign.
+KBL5_096      & KOL1_062      >427.575519202  Highly sign.
+FBM1_095      & KTE1_096      >548.190643204  Highly sign.
+FBM2_095      & KTE1_096      >613.880696204  Highly sign.
+FBM3_095      & KTE1_096      >675.634424204  Highly sign.
+FBM4_095      & KTE1_096      >689.496181204  Highly sign.
+FOM1_095      & KTE1_096      >547.382852204  Highly sign.
+FTM2_095      & KTE1_096      >544.379987204  Highly sign.
+FTM3_093      & KTE1_096      >551.994113204  Highly sign.
+FTM4_078      & KTE1_096      >571.255090204  Highly sign.
+FTM5_095      & KTE1_096      >579.408694204  Highly sign.
+FTM6_095      & KTE1_096      >594.425581204  Highly sign.
+KBL1_096      & KTE1_096      >354.122413204  Highly sign.
+KBL2_097      & KTE1_096      >390.801309204  Highly sign.
+KBL4_096      & KTE1_096      >357.873490204  Highly sign.
+KBL5_096      & KTE1_096      >364.421346204  Highly sign.
+KOL1_062      & KTE1_096      >469.339132204  Highly sign.
+FBM1_095      & KTE2_096      >567.221457204  Highly sign.
+FBM2_095      & KTE2_096      >540.665771204  Highly sign.
+FBM3_095      & KTE2_096      >566.068968204  Highly sign.
+FBM4_095      & KTE2_096      >562.754431204  Highly sign.
+FOM1_095      & KTE2_096      >509.032391204  Highly sign.
+FTM2_095      & KTE2_096      >465.803434204  Highly sign.
+FTM3_093      & KTE2_096      >411.041459204  Highly sign.
+FTM4_078      & KTE2_096      >498.121627204  Highly sign.
+FTM5_095      & KTE2_096      >513.147317204  Highly sign.
+FTM6_095      & KTE2_096      >517.157337204  Highly sign.
+KBL1_096      & KTE2_096      >470.609456204  Highly sign.
+KBL2_097      & KTE2_096      >479.607146204  Highly sign.
+KBL4_096      & KTE2_096      >471.839668204  Highly sign.
+KBL5_096      & KTE2_096      >438.647898204  Highly sign.
+KOL1_062      & KTE2_096      >460.976907204  Highly sign.
+KTE1_096      & KTE2_096      280.869065204  0.000290
+FBM1_095      & KTE4_066      >504.338395204  Highly sign.
+FBM2_095      & KTE4_066      >540.430433204  Highly sign.
+FBM3_095      & KTE4_066      >587.210913204  Highly sign.
+FBM4_095      & KTE4_066      >554.963711204  Highly sign.
+FOM1_095      & KTE4_066      >492.670030204  Highly sign.
+FTM2_095      & KTE4_066      >464.590287204  Highly sign.
+FTM3_093      & KTE4_066      >430.987639204  Highly sign.
+FTM4_078      & KTE4_066      >507.693083204  Highly sign.
+FTM5_095      & KTE4_066      >496.475709204  Highly sign.
+FTM6_095      & KTE4_066      >493.619796204  Highly sign.
+KBL1_096      & KTE4_066      >333.574160204  Highly sign.
+KBL2_097      & KTE4_066      >340.476625204  Highly sign.
+KBL4_096      & KTE4_066      >336.736047204  Highly sign.
+KBL5_096      & KTE4_066      >337.673780204  Highly sign.
+KOL1_062      & KTE4_066      >378.328678204  Highly sign.
+KTE1_096      & KTE4_066      176.613833204  0.917501
+KTE2_096      & KTE4_066      228.537779204  0.114660
+FBM1_095      & KTE5_096      >492.731083204  Highly sign.
+FBM2_095      & KTE5_096      >571.886362204  Highly sign.
+FBM3_095      & KTE5_096      >566.525707204  Highly sign.
+FBM4_095      & KTE5_096      >576.284340204  Highly sign.
+FOM1_095      & KTE5_096      >483.665843204  Highly sign.
+FTM2_095      & KTE5_096      >469.099869204  Highly sign.
+FTM3_093      & KTE5_096      >484.033909204  Highly sign.
+FTM4_078      & KTE5_096      >495.969412204  Highly sign.
+FTM5_095      & KTE5_096      >545.373038204  Highly sign.
+FTM6_095      & KTE5_096      >520.204198204  Highly sign.
+KBL1_096      & KTE5_096      >355.962572204  Highly sign.
+KBL2_097      & KTE5_096      >402.381447204  Highly sign.
+KBL4_096      & KTE5_096      >375.714016204  Highly sign.
+KBL5_096      & KTE5_096      >391.674642204  Highly sign.
+KOL1_062      & KTE5_096      >400.411495202  Highly sign.
+KTE1_096      & KTE5_096      231.372000204  0.091486
+KTE2_096      & KTE5_096      273.489168204  0.000836
+KTE4_066      & KTE5_096      208.539924204  0.398930
+FBM1_095      & KTE6_096      >501.090254204  Highly sign.
+FBM2_095      & KTE6_096      >577.294625204  Highly sign.
+FBM3_095      & KTE6_096      >617.685078204  Highly sign.
+FBM4_095      & KTE6_096      >562.949419204  Highly sign.
+FOM1_095      & KTE6_096      >501.808792204  Highly sign.
+FTM2_095      & KTE6_096      >501.261582204  Highly sign.
+FTM3_093      & KTE6_096      >450.621895204  Highly sign.
+FTM4_078      & KTE6_096      >499.422333204  Highly sign.
+FTM5_095      & KTE6_096      >523.609520204  Highly sign.
+FTM6_095      & KTE6_096      >537.843706204  Highly sign.
+KBL1_096      & KTE6_096      >384.080443204  Highly sign.
+KBL2_097      & KTE6_096      >438.234576204  Highly sign.
+KBL4_096      & KTE6_096      >383.135228204  Highly sign.
+KBL5_096      & KTE6_096      >361.555845204  Highly sign.
+KOL1_062      & KTE6_096      >459.228228204  Highly sign.
+KTE1_096      & KTE6_096      249.613314204  0.016132
+KTE2_096      & KTE6_096      240.900349204  0.039239
+KTE4_066      & KTE6_096      199.275990204  0.580314
+KTE5_096      & KTE6_096      199.689653204  0.572173
+FBM1_095      & KTE7_096      >543.312157204  Highly sign.
+FBM2_095      & KTE7_096      >598.744048204  Highly sign.
+FBM3_095      & KTE7_096      >631.374864204  Highly sign.
+FBM4_095      & KTE7_096      >613.827613204  Highly sign.
+FOM1_095      & KTE7_096      >560.775074204  Highly sign.
+FTM2_095      & KTE7_096      >516.932521204  Highly sign.
+FTM3_093      & KTE7_096      >499.193320204  Highly sign.
+FTM4_078      & KTE7_096      >551.238167204  Highly sign.
+FTM5_095      & KTE7_096      >519.914742204  Highly sign.
+FTM6_095      & KTE7_096      >607.062752204  Highly sign.
+KBL1_096      & KTE7_096      >406.628322204  Highly sign.
+KBL2_097      & KTE7_096      >401.432038204  Highly sign.
+KBL4_096      & KTE7_096      >408.878458204  Highly sign.
+KBL5_096      & KTE7_096      >351.903182204  Highly sign.
+KOL1_062      & KTE7_096      >488.407849204  Highly sign.
+KTE1_096      & KTE7_096      244.821207204  0.026655
+KTE2_096      & KTE7_096      265.293135204  0.002509
+KTE4_066      & KTE7_096      180.662222204  0.878895
+KTE5_096      & KTE7_096      204.987558204  0.467396
+KTE6_096      & KTE7_096      186.562200204  0.804038
+FBM1_095      & KTE8_096      >490.931828204  Highly sign.
+FBM2_095      & KTE8_096      >572.999254204  Highly sign.
+FBM3_095      & KTE8_096      >608.455210204  Highly sign.
+FBM4_095      & KTE8_096      >659.213646204  Highly sign.
+FOM1_095      & KTE8_096      >568.196466204  Highly sign.
+FTM2_095      & KTE8_096      >552.492658204  Highly sign.
+FTM3_093      & KTE8_096      >543.150379204  Highly sign.
+FTM4_078      & KTE8_096      >570.650428204  Highly sign.
+FTM5_095      & KTE8_096      >578.479619204  Highly sign.
+FTM6_095      & KTE8_096      >575.096622204  Highly sign.
+KBL1_096      & KTE8_096      >402.131701204  Highly sign.
+KBL2_097      & KTE8_096      >406.616514204  Highly sign.
+KBL4_096      & KTE8_096      >379.672862204  Highly sign.
+KBL5_096      & KTE8_096      >340.285414204  Highly sign.
+KOL1_062      & KTE8_096      >474.606276204  Highly sign.
+KTE1_096      & KTE8_096      224.471914204  0.155200
+KTE2_096      & KTE8_096      244.801807204  0.026708
+KTE4_066      & KTE8_096      186.998063204  0.797647
+KTE5_096      & KTE8_096      196.030332204  0.643118
+KTE6_096      & KTE8_096      197.752604204  0.610069
+KTE7_096      & KTE8_096      189.835439204  0.753370
+FBM1_095      & KTE9_064      >473.444721204  Highly sign.
+FBM2_095      & KTE9_064      >529.954019204  Highly sign.
+FBM3_095      & KTE9_064      >552.912204204  Highly sign.
+FBM4_095      & KTE9_064      >599.556001204  Highly sign.
+FOM1_095      & KTE9_064      >474.192025204  Highly sign.
+FTM2_095      & KTE9_064      >457.374814204  Highly sign.
+FTM3_093      & KTE9_064      >456.585996204  Highly sign.
+FTM4_078      & KTE9_064      >493.227108204  Highly sign.
+FTM5_095      & KTE9_064      >522.259172204  Highly sign.
+FTM6_095      & KTE9_064      >518.071432204  Highly sign.
+KBL1_096      & KTE9_064      >363.925915204  Highly sign.
+KBL2_097      & KTE9_064      >340.631025204  Highly sign.
+KBL4_096      & KTE9_064      >371.549475204  Highly sign.
+KBL5_096      & KTE9_064      >372.933555204  Highly sign.
+KOL1_062      & KTE9_064      >364.880014202  Highly sign.
+KTE1_096      & KTE9_064      221.078375204  0.196011
+KTE2_096      & KTE9_064      230.133632204  0.101121
+KTE4_066      & KTE9_064      177.441073204  0.910436
+KTE5_096      & KTE9_064      193.140127202  0.660649
+KTE6_096      & KTE9_064      226.849541204  0.130414
+KTE7_096      & KTE9_064      234.849073204  0.068223
+KTE8_096      & KTE9_064      226.230122204  0.136574
+FBM1_095      & KTL1_095      >517.832512204  Highly sign.
+FBM2_095      & KTL1_095      >538.616102204  Highly sign.
+FBM3_095      & KTL1_095      >618.471548204  Highly sign.
+FBM4_095      & KTL1_095      >621.495057204  Highly sign.
+FOM1_095      & KTL1_095      >487.062785204  Highly sign.
+FTM2_095      & KTL1_095      >469.114019204  Highly sign.
+FTM3_093      & KTL1_095      >532.798459204  Highly sign.
+FTM4_078      & KTL1_095      >536.854875204  Highly sign.
+FTM5_095      & KTL1_095      >522.972615204  Highly sign.
+FTM6_095      & KTL1_095      >519.943010204  Highly sign.
+KBL1_096      & KTL1_095      186.834261204  0.800062
+KBL2_097      & KTL1_095      191.438035204  0.726455
+KBL4_096      & KTL1_095      198.443552204  0.596623
+KBL5_096      & KTL1_095      200.118888204  0.563705
+KOL1_062      & KTL1_095      338.944466204  Highly sign.
+KTE1_096      & KTL1_095      >306.143687204  <0.000005
+KTE2_096      & KTL1_095      >407.852854204  Highly sign.
+KTE4_066      & KTL1_095      >279.210578204  <0.000370
+KTE5_096      & KTL1_095      >346.985937204  Highly sign.
+KTE6_096      & KTL1_095      >371.189985204  Highly sign.
+KTE7_096      & KTL1_095      >353.129676204  Highly sign.
+KTE8_096      & KTL1_095      >342.262999204  Highly sign.
+KTE9_064      & KTL1_095      >311.743007204  <0.000002
+FBM1_095      & KTL2_095      >589.765080204  Highly sign.
+FBM2_095      & KTL2_095      >488.258449204  Highly sign.
+FBM3_095      & KTL2_095      >617.465853204  Highly sign.
+FBM4_095      & KTL2_095      >579.885191204  Highly sign.
+FOM1_095      & KTL2_095      >494.954386204  Highly sign.
+FTM2_095      & KTL2_095      >464.655277204  Highly sign.
+FTM3_093      & KTL2_095      >508.374796204  Highly sign.
+FTM4_078      & KTL2_095      >534.303249204  Highly sign.
+FTM5_095      & KTL2_095      >491.474413204  Highly sign.
+FTM6_095      & KTL2_095      >570.242755204  Highly sign.
+KBL1_096      & KTL2_095      182.537094204  0.857505
+KBL2_097      & KTL2_095      169.302341204  0.963479
+KBL4_096      & KTL2_095      191.461234204  0.726056
+KBL5_096      & KTL2_095      153.215218204  0.996781
+KOL1_062      & KTL2_095      390.675733204  Highly sign.
+KTE1_096      & KTL2_095      >332.436436204  Highly sign.
+KTE2_096      & KTL2_095      >404.724976204  Highly sign.
+KTE4_066      & KTL2_095      >310.151704204  <0.000002
+KTE5_096      & KTL2_095      >316.965414204  <0.000001
+KTE6_096      & KTL2_095      >351.489315204  Highly sign.
+KTE7_096      & KTL2_095      >352.568730204  Highly sign.
+KTE8_096      & KTL2_095      >394.450734204  Highly sign.
+KTE9_064      & KTL2_095      >334.878898204  Highly sign.
+KTL1_095      & KTL2_095      171.770582204  0.951025
+FBM1_095      & RBL1_095      317.869803200  Highly sign.
+FBM2_095      & RBL1_095      312.426734200  0.000001
+FBM3_095      & RBL1_095      346.476812198  Highly sign.
+FBM4_095      & RBL1_095      >421.466479198  Highly sign.
+FOM1_095      & RBL1_095      304.021422204  0.000007
+FTM2_095      & RBL1_095      264.896956202  0.001962
+FTM3_093      & RBL1_095      260.313416204  0.004692
+FTM4_078      & RBL1_095      316.678459202  0.000000
+FTM5_095      & RBL1_095      269.695345200  0.000744
+FTM6_095      & RBL1_095      458.920402202  Highly sign.
+KBL1_096      & RBL1_095      >508.340479204  Highly sign.
+KBL2_097      & RBL1_095      >567.868350204  Highly sign.
+KBL4_096      & RBL1_095      >563.800745202  Highly sign.
+KBL5_096      & RBL1_095      >548.900274204  Highly sign.
+KOL1_062      & RBL1_095      >639.057955204  Highly sign.
+KTE1_096      & RBL1_095      >560.036746204  Highly sign.
+KTE2_096      & RBL1_095      >510.122301204  Highly sign.
+KTE4_066      & RBL1_095      >543.820528204  Highly sign.
+KTE5_096      & RBL1_095      >560.296020204  Highly sign.
+KTE6_096      & RBL1_095      >571.532178204  Highly sign.
+KTE7_096      & RBL1_095      >583.708669204  Highly sign.
+KTE8_096      & RBL1_095      >566.286834204  Highly sign.
+KTE9_064      & RBL1_095      >468.576187204  Highly sign.
+KTL1_095      & RBL1_095      >484.061044204  Highly sign.
+KTL2_095      & RBL1_095      >494.165828204  Highly sign.
+FBM1_095      & RBL2_095      >295.024696202  <0.000022
+FBM2_095      & RBL2_095      >325.008161200  Highly sign.
+FBM3_095      & RBL2_095      >369.824094200  Highly sign.
+FBM4_095      & RBL2_095      >500.127218200  Highly sign.
+FOM1_095      & RBL2_095      310.045060204  0.000002
+FTM2_095      & RBL2_095      268.854301202  0.001153
+FTM3_093      & RBL2_095      >313.025630204  <0.000001
+FTM4_078      & RBL2_095      >282.277876202  <0.000165
+FTM5_095      & RBL2_095      >294.657424202  <0.000023
+FTM6_095      & RBL2_095      >441.564650204  Highly sign.
+KBL1_096      & RBL2_095      >628.393791204  Highly sign.
+KBL2_097      & RBL2_095      >552.345286204  Highly sign.
+KBL4_096      & RBL2_095      >582.812317202  Highly sign.
+KBL5_096      & RBL2_095      >592.379985204  Highly sign.
+KOL1_062      & RBL2_095      >567.985000204  Highly sign.
+KTE1_096      & RBL2_095      >667.575419204  Highly sign.
+KTE2_096      & RBL2_095      >536.718023204  Highly sign.
+KTE4_066      & RBL2_095      >525.027813204  Highly sign.
+KTE5_096      & RBL2_095      >495.441874204  Highly sign.
+KTE6_096      & RBL2_095      >521.211933204  Highly sign.
+KTE7_096      & RBL2_095      >615.061311204  Highly sign.
+KTE8_096      & RBL2_095      >564.255677204  Highly sign.
+KTE9_064      & RBL2_095      >536.856415204  Highly sign.
+KTL1_095      & RBL2_095      >503.509648204  Highly sign.
+KTL2_095      & RBL2_095      >549.623625204  Highly sign.
+RBL1_095      & RBL2_095      233.950596200  0.050196
+FBM1_095      & RBL3_095      310.272298202  0.000002
+FBM2_095      & RBL3_095      315.431960200  0.000000
+FBM3_095      & RBL3_095      337.419709200  Highly sign.
+FBM4_095      & RBL3_095      >423.523600200  Highly sign.
+FOM1_095      & RBL3_095      242.840091204  0.032496
+FTM2_095      & RBL3_095      216.862832202  0.225067
+FTM3_093      & RBL3_095      268.039623204  0.001752
+FTM4_078      & RBL3_095      295.889673202  0.000019
+FTM5_095      & RBL3_095      279.382966202  0.000255
+FTM6_095      & RBL3_095      >379.969387204  Highly sign.
+KBL1_096      & RBL3_095      >524.114916204  Highly sign.
+KBL2_097      & RBL3_095      >555.400148204  Highly sign.
+KBL4_096      & RBL3_095      >631.816820202  Highly sign.
+KBL5_096      & RBL3_095      >566.558756204  Highly sign.
+KOL1_062      & RBL3_095      >553.733487204  Highly sign.
+KTE1_096      & RBL3_095      >629.163980204  Highly sign.
+KTE2_096      & RBL3_095      >574.159721204  Highly sign.
+KTE4_066      & RBL3_095      >515.631670204  Highly sign.
+KTE5_096      & RBL3_095      >593.367125204  Highly sign.
+KTE6_096      & RBL3_095      >570.077511204  Highly sign.
+KTE7_096      & RBL3_095      >547.292366204  Highly sign.
+KTE8_096      & RBL3_095      >660.879092204  Highly sign.
+KTE9_064      & RBL3_095      >534.367906204  Highly sign.
+KTL1_095      & RBL3_095      >471.836610204  Highly sign.
+KTL2_095      & RBL3_095      >541.383047204  Highly sign.
+RBL1_095      & RBL3_095      162.950566200  0.974232
+RBL2_095      & RBL3_095      190.546283200  0.672563
+FBM1_095      & RBL4_095      >339.307819202  Highly sign.
+FBM2_095      & RBL4_095      >289.011284200  <0.000039
+FBM3_095      & RBL4_095      >348.977575200  Highly sign.
+FBM4_095      & RBL4_095      >444.401178200  Highly sign.
+FOM1_095      & RBL4_095      289.259855204  0.000081
+FTM2_095      & RBL4_095      298.499089202  0.000012
+FTM3_093      & RBL4_095      289.233050204  0.000081
+FTM4_078      & RBL4_095      >314.619966202  <0.000001
+FTM5_095      & RBL4_095      311.459799202  0.000001
+FTM6_095      & RBL4_095      >463.679045204  Highly sign.
+KBL1_096      & RBL4_095      >582.209438204  Highly sign.
+KBL2_097      & RBL4_095      >568.497123204  Highly sign.
+KBL4_096      & RBL4_095      >616.350938202  Highly sign.
+KBL5_096      & RBL4_095      >515.660524204  Highly sign.
+KOL1_062      & RBL4_095      >582.787651204  Highly sign.
+KTE1_096      & RBL4_095      >669.939405204  Highly sign.
+KTE2_096      & RBL4_095      >548.279166204  Highly sign.
+KTE4_066      & RBL4_095      >510.836034204  Highly sign.
+KTE5_096      & RBL4_095      >582.350729204  Highly sign.
+KTE6_096      & RBL4_095      >499.705712204  Highly sign.
+KTE7_096      & RBL4_095      >554.393684204  Highly sign.
+KTE8_096      & RBL4_095      >587.517130204  Highly sign.
+KTE9_064      & RBL4_095      >503.863794204  Highly sign.
+KTL1_095      & RBL4_095      >484.305863204  Highly sign.
+KTL2_095      & RBL4_095      >575.754228204  Highly sign.
+RBL1_095      & RBL4_095      203.071007200  0.426181
+RBL2_095      & RBL4_095      189.226864200  0.696827
+RBL3_095      & RBL4_095      194.556117200  0.595365
+FBM1_095      & RTE1_095      >350.887083200  Highly sign.
+FBM2_095      & RTE1_095      >293.192597202  <0.000029
+FBM3_095      & RTE1_095      >366.430818200  Highly sign.
+FBM4_095      & RTE1_095      >415.863745200  Highly sign.
+FOM1_095      & RTE1_095      >354.117390204  Highly sign.
+FTM2_095      & RTE1_095      >313.556947202  <0.000001
+FTM3_093      & RTE1_095      >345.634738204  Highly sign.
+FTM4_078      & RTE1_095      >262.304766204  <0.003667
+FTM5_095      & RTE1_095      >311.211634202  <0.000001
+FTM6_095      & RTE1_095      >305.553555202  <0.000004
+KBL1_096      & RTE1_095      >584.915938204  Highly sign.
+KBL2_097      & RTE1_095      >648.581133204  Highly sign.
+KBL4_096      & RTE1_095      >571.408407204  Highly sign.
+KBL5_096      & RTE1_095      >602.089823204  Highly sign.
+KOL1_062      & RTE1_095      >718.084289204  Highly sign.
+KTE1_096      & RTE1_095      >674.166476204  Highly sign.
+KTE2_096      & RTE1_095      >566.867791204  Highly sign.
+KTE4_066      & RTE1_095      >617.029931204  Highly sign.
+KTE5_096      & RTE1_095      >566.291334204  Highly sign.
+KTE6_096      & RTE1_095      >638.361845204  Highly sign.
+KTE7_096      & RTE1_095      >709.391599204  Highly sign.
+KTE8_096      & RTE1_095      >641.887885204  Highly sign.
+KTE9_064      & RTE1_095      >590.014200204  Highly sign.
+KTL1_095      & RTE1_095      >620.614499204  Highly sign.
+KTL2_095      & RTE1_095      >657.405819204  Highly sign.
+RBL1_095      & RTE1_095      >384.797940200  Highly sign.
+RBL2_095      & RTE1_095      >477.259960202  Highly sign.
+RBL3_095      & RTE1_095      >440.708480202  Highly sign.
+RBL4_095      & RTE1_095      >408.467429202  Highly sign.
+FBM1_095      & RTE2_095      >365.912877202  Highly sign.
+FBM2_095      & RTE2_095      >375.160958202  Highly sign.
+FBM3_095      & RTE2_095      >288.428336202  <0.000063
+FBM4_095      & RTE2_095      >411.003819202  Highly sign.
+FOM1_095      & RTE2_095      >351.400848204  Highly sign.
+FTM2_095      & RTE2_095      >329.718750202  Highly sign.
+FTM3_093      & RTE2_095      >359.205615204  Highly sign.
+FTM4_078      & RTE2_095      >272.842863204  <0.000914
+FTM5_095      & RTE2_095      >333.903468204  Highly sign.
+FTM6_095      & RTE2_095      >321.283655204  <0.000000
+KBL1_096      & RTE2_095      >630.037588204  Highly sign.
+KBL2_097      & RTE2_095      >585.175508204  Highly sign.
+KBL4_096      & RTE2_095      >621.760078204  Highly sign.
+KBL5_096      & RTE2_095      >547.115945204  Highly sign.
+KOL1_062      & RTE2_095      >700.850179204  Highly sign.
+KTE1_096      & RTE2_095      >645.268074204  Highly sign.
+KTE2_096      & RTE2_095      >653.691576204  Highly sign.
+KTE4_066      & RTE2_095      >643.833431204  Highly sign.
+KTE5_096      & RTE2_095      >597.243103204  Highly sign.
+KTE6_096      & RTE2_095      >577.013502204  Highly sign.
+KTE7_096      & RTE2_095      >657.184951204  Highly sign.
+KTE8_096      & RTE2_095      >660.140654204  Highly sign.
+KTE9_064      & RTE2_095      >570.784055204  Highly sign.
+KTL1_095      & RTE2_095      >606.556355204  Highly sign.
+KTL2_095      & RTE2_095      >569.079520204  Highly sign.
+RBL1_095      & RTE2_095      >434.402171202  Highly sign.
+RBL2_095      & RTE2_095      >417.342742202  Highly sign.
+RBL3_095      & RTE2_095      >419.218196202  Highly sign.
+RBL4_095      & RTE2_095      >441.227869202  Highly sign.
+RTE1_095      & RTE2_095      218.378096200  0.177367
+FBM1_095      & RUL1_096      >524.938155204  Highly sign.
+FBM2_095      & RUL1_096      >545.820994204  Highly sign.
+FBM3_095      & RUL1_096      >568.291472204  Highly sign.
+FBM4_095      & RUL1_096      >613.246967204  Highly sign.
+FOM1_095      & RUL1_096      >528.612136204  Highly sign.
+FTM2_095      & RUL1_096      >665.529155204  Highly sign.
+FTM3_093      & RUL1_096      >624.593407204  Highly sign.
+FTM4_078      & RUL1_096      >527.247724204  Highly sign.
+FTM5_095      & RUL1_096      >657.392057204  Highly sign.
+FTM6_095      & RUL1_096      >491.756435204  Highly sign.
+KBL1_096      & RUL1_096      >695.991171204  Highly sign.
+KBL2_097      & RUL1_096      >674.910742204  Highly sign.
+KBL4_096      & RUL1_096      >712.598313204  Highly sign.
+KBL5_096      & RUL1_096      >738.726330204  Highly sign.
+KOL1_062      & RUL1_096      >584.020244204  Highly sign.
+KTE1_096      & RUL1_096      >570.647351204  Highly sign.
+KTE2_096      & RUL1_096      >690.104965204  Highly sign.
+KTE4_066      & RUL1_096      >646.605040204  Highly sign.
+KTE5_096      & RUL1_096      >690.697419204  Highly sign.
+KTE6_096      & RUL1_096      >673.935537204  Highly sign.
+KTE7_096      & RUL1_096      >579.990999204  Highly sign.
+KTE8_096      & RUL1_096      >666.752966204  Highly sign.
+KTE9_064      & RUL1_096      >665.801871204  Highly sign.
+KTL1_095      & RUL1_096      >797.505925204  Highly sign.
+KTL2_095      & RUL1_096      >689.317213204  Highly sign.
+RBL1_095      & RUL1_096      >560.309790204  Highly sign.
+RBL2_095      & RUL1_096      >613.771029204  Highly sign.
+RBL3_095      & RUL1_096      >589.453714204  Highly sign.
+RBL4_095      & RUL1_096      >587.759053204  Highly sign.
+RTE1_095      & RUL1_096      >555.928724204  Highly sign.
+RTE2_095      & RUL1_096      >540.819593202  Highly sign.

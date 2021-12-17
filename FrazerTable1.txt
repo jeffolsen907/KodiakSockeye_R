@@ -1,0 +1,34 @@
+Lake,Location,Group,ColNo,Date,N,Timing,Habitat,Lat,Long
+Frazer,Courts shore,FBM,1,8/21/2008,95,mid,Beach,57.29,-154.164
+Frazer,Hollow Fox shore,FBM,2,8/22/2008,95,mid,Beach,57.232,-154.105
+Frazer,Midway shore,FBM,3,8/21/2008,95,mid,Beach,57.253,-154.127
+Frazer,Outlet shore,FBM,4,8/20/2008,95,mid,Beach,57.206,-154.076
+Frazer,Dog Salmon Ck,FOM,5,8/22/2008,95,mid,Outlet,57.199,-154.052
+Frazer,Linda Ck mouth,FTM,6,8/22/2008,95,mid,Trib,57.233,-154.126
+Frazer,Midway Ck mouth,FTM,7,8/21/2008,93,mid,Trib,57.254,-154.128
+Frazer,Pinnell Ck mouth,FTM,8,8/21/2008,78,mid,Trib,57.307,-154.203
+Frazer,Stumble Ck mouth,FTM,9,8/21/2008,95,mid,Trib,57.305,-154.204
+Frazer,Valarian Ck,FTM,10,8/21/2008,95,mid,Trib,57.2,-154.079
+Karluk,W shoal,KBL,11,9/27/1999,95,late,Beach,57.394,-154.078
+Karluk,E shoal,KBL,12,9/27/1999,95,late,Beach,57.399,-154.041
+Karluk,SE shoal,KBL,13d,9/28/1999,95,late,Beach,57.283,-153.996
+Karluk,shoal by Thumb R,KBL,14,10/1/1999,95,late,Beach,57.358,-153.999
+Karluk,Karluk R,KOL,15,10/14/2001,62,late,Outlet,57.441,-154.109
+Karluk,Canyon Ck,KTE,16,7/31/1999,95,early,Trib,57.278,-153.989
+Karluk,Cascade Ck,KTE,17,7/28/1999,95,early,Trib,57.277,-154.008
+Karluk,Cottonwood Ck,KTE,18,7/27/1999,95,early,Trib,57.404,-154.045
+Karluk,Falls Ck,KTE,19,8/5/1999,66,early,Trib,57.274,-153.986
+Karluk,Grassy Point Ck,KTE,20,7/27/1999,95,early,Trib,57.382,-154.075
+Karluk,Halfway Ck,KTE,21,7/19/2001,95,early,Trib,57.358,-154.063
+Karluk,Moraine Ck,KTE,22,7/26/1999,95,early,Trib,57.434,-154.075
+Karluk,Salmon Ck,KTE,23,7/29/1999,95,early,Trib,57.354,-153.995
+Karluk,upper Thumb R,KTE,24,7/29/1999,72,early,Trib,57.35,-153.972
+Karluk,lower Thumb R,KTL,25,9/30/1999,95,late,Trib,57.356,-153.999
+Karluk,Omalley R,KTL,26,9/30/1999,95,late,Trib,57.277,-153.996
+Red,NE shoal,RBL,27,9/16/2011,95,late,Beach,57.266,-154.318
+Red,NW shoal,RBL,28,10/17/2011,95,late,Beach,57.253,-154.336
+Red,South shoal,RBL,29,9/16/2011,95,late,Beach,57.224,-154.269
+Red,SW shoal,RBL,30,10/17/2011,95,late,Beach,57.237,-154.298
+Red,Connecticut Ck,RTE,31d,7/18/2011,95,early,Trib,57.264,-154.316
+Red,Crystal Ck.,RTE,32,7/18/2011,95,early,Trib,57.231,-154.265
+Becharof,Ruth R,RUL,33d,1995,95,late,Outlet,57.567,-156.117
