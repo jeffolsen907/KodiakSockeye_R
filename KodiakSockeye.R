@@ -13,6 +13,7 @@ library(cowplot)
 library(PopGenKit)
 library(ape)
 library(plyr)
+library(gtools)
 
 #Clear workspace
 rm(list = ls())
